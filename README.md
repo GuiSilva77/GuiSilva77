@@ -1,4 +1,26 @@
-### Hi there 👋
+### Olá a todos!
+
+Meu nome é Guilherme
+
+Sou um estudante de TI pela Fatec Taquaritinga e faço uns projetos
+
+🔭 Meus objetivos estão seguir carreira em desenvolvimento backend
+
+Tenho conhecimento nas linguagens em C#, C, JavaScript e Java
+
+🌱 Atualmente estou aprendendo Java com SpringBoot
+
+Tenho contato com as tecnologias
+* ASP.NET
+* SQL Server
+* Node.JS
+* Express
+* Docker
+* Windows Server e AD
+* Ubuntu Server e Samba
+
+
+
 
 <!--
 **GuiSilva77/GuiSilva77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
