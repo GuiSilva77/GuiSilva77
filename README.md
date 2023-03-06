@@ -10,14 +10,7 @@ Tenho conhecimento nas linguagens em C#, C, JavaScript e Java
 
 🌱 Atualmente estou aprendendo Java com SpringBoot
 
-Tenho contato com as tecnologias
-* ASP.NET
-* SQL Server
-* Node.JS
-* Express
-* Docker
-* Windows Server e AD
-* Ubuntu Server e Samba
+Tenho contato com as tecnologias ASP.NET, SQL Server, Azure, Node.JS, Express, Docker, Windows Server com AD e Ubuntu Server com Samba
 
 
 
