@@ -1,6 +1,6 @@
-### Olá a todos!
+### Olá!
 
-Meu nome é Guilherme, Sou um estudante de TI pela Fatec Taquaritinga e faço uns projetos
+Meu nome é Guilherme, sou um estudante de TI pela Fatec Taquaritinga
 
 🔭 Meus objetivos estão seguir carreira em desenvolvimento backend
 
