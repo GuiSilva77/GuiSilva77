@@ -4,12 +4,14 @@ Meu nome é Guilherme, sou um estudante de TI pela Fatec Taquaritinga
 
 🔭 Meus objetivos estão seguir carreira em desenvolvimento backend
 
-Tenho conhecimento nas linguagens em C#, C, JavaScript e Java
+Tenho conhecimento nas linguagens em Java, Javascript, C e C#
 
-🌱 Atualmente estou aprendendo Java com SpringBoot
+Sou certificado em Nuvem AWS (Cloud Praticioner).
 
-Tenho contato com as tecnologias ASP.NET, SQL Server, Azure, Node.JS, Express, Docker, Windows Server com AD e Ubuntu Server com Samba
-
+Conheço tecnologias web como spring boot, cloud, ASP.NET Core, NextJS e NodeJS.
+Sei de Banco de dados como MSSQL, MySQL, PostgreSQL e MongoDb; ORMs como JPA/Hibernate e PrismaJS.
+Uso ferramentas como Docker, arquitetura de microsserviços.
+Conheço ferramentas de domínio como Microsoft AD no Windows e Samba no Linux.
 
 
 
