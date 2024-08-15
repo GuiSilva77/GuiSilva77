@@ -2,15 +2,15 @@
 I'm a passionate backend developer with a strong focus on Spring Boot with Java. My journey in development has allowed me to explore various technologies and grow my expertise.
 
 ## 💻 My Skills & Expertise
-Backend Development: Spring Boot with Java
-Additional Knowledge: Express, AdonisJS
-Basic Proficiency: TypeScript
-Language Skills: Intermediate English
+- Backend Development: Spring Boot with Java
+- Additional Knowledge: Express, AdonisJS
+- Basic Proficiency: TypeScript
+- Language Skills: Intermediate English
 ## 🎓 Certifications
-AWS Cloud Practitioner
-Microsoft Power Platform Fundamentals (PL-900)
+- AWS Cloud Practitioner
+- Microsoft Power Platform Fundamentals (PL-900)
 ## 🎓 Education
-Currently finalizing my college degree.
+- Currently finalizing my college degree.
 ## 🚀 What Drives Me
 I have a deep curiosity and love for learning new technologies. Whether it's diving into a new framework or exploring a different paradigm, I enjoy expanding my skill set and staying updated with the latest in the tech world.
 
