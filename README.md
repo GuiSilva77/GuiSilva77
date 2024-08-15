@@ -1,17 +1,18 @@
-### Olá!
+Hello, I'm Guilherme 👋
+I'm a passionate backend developer with a strong focus on Spring Boot with Java. My journey in development has allowed me to explore various technologies and grow my expertise.
 
-Meu nome é Guilherme, sou um estudante de TI pela Fatec Taquaritinga
-
-🔭 Meus objetivos estão seguir carreira em desenvolvimento backend
-
-Tenho conhecimento nas linguagens em Java, Javascript, C e C#
-
-Sou certificado em Nuvem AWS (Cloud Praticioner).
-
-Conheço tecnologias web como spring boot, cloud, ASP.NET Core, NextJS e NodeJS.
-Sei de Banco de dados como MSSQL, MySQL, PostgreSQL e MongoDb; ORMs como JPA/Hibernate e PrismaJS.
-Uso ferramentas como Docker, arquitetura de microsserviços.
-Conheço ferramentas de domínio como Microsoft AD no Windows e Samba no Linux.
+💻 My Skills & Expertise
+Backend Development: Spring Boot with Java
+Additional Knowledge: Express, AdonisJS
+Basic Proficiency: TypeScript
+Language Skills: Intermediate English
+🎓 Certifications
+AWS Cloud Practitioner
+Microsoft Power Platform Fundamentals (PL-900)
+🎓 Education
+Currently finalizing my college degree.
+🚀 What Drives Me
+I have a deep curiosity and love for learning new technologies. Whether it's diving into a new framework or exploring a different paradigm, I enjoy expanding my skill set and staying updated with the latest in the tech world.
 
 
 
